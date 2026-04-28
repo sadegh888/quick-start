@@ -6,3 +6,4 @@ update usage instructions
 fix formatting inconsistencies
 add basic examples
 reorganize content layout
+enhance readability of notes
