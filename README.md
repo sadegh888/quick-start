@@ -8,3 +8,4 @@ add basic examples
 reorganize content layout
 enhance readability of notes
 minor documentation improvements
+clean up unnecessary text
