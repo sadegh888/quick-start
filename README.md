@@ -5,3 +5,4 @@ improve documentation clarity
 update usage instructions
 fix formatting inconsistencies
 add basic examples
+reorganize content layout
